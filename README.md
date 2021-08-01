@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anup5333
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning python/blockcain
+- 🌱 I’m currently learning python/blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
